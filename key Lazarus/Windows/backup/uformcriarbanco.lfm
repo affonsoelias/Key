@@ -1,0 +1,94 @@
+object Form2: TForm2
+  Left = 174
+  Height = 209
+  Top = 208
+  Width = 445
+  BorderIcons = [biSystemMenu]
+  Caption = 'Key - Criando banco de dados'
+  ChildSizing.HorizontalSpacing = 2
+  ChildSizing.EnlargeHorizontal = crsScaleChilds
+  ChildSizing.EnlargeVertical = crsHomogenousChildResize
+  ChildSizing.Layout = cclTopToBottomThenLeftToRight
+  ChildSizing.ControlsPerLine = 2
+  ClientHeight = 209
+  ClientWidth = 445
+  LCLVersion = '2.0.12.0'
+  object Panel1: TPanel
+    Left = 0
+    Height = 104
+    Top = 0
+    Width = 445
+    ChildSizing.LeftRightSpacing = 2
+    ChildSizing.TopBottomSpacing = 2
+    ChildSizing.HorizontalSpacing = 2
+    ChildSizing.VerticalSpacing = 2
+    ChildSizing.EnlargeHorizontal = crsScaleChilds
+    ChildSizing.EnlargeVertical = crsHomogenousChildResize
+    ChildSizing.ShrinkVertical = crsHomogenousChildResize
+    ChildSizing.Layout = cclLeftToRightThenTopToBottom
+    ChildSizing.ControlsPerLine = 3
+    ClientHeight = 104
+    ClientWidth = 445
+    TabOrder = 0
+    OnClick = Panel1Click
+    object Label1: TLabel
+      Left = 2
+      Height = 100
+      Top = 2
+      Width = 239
+      Caption = 'Nome do banco de dados'
+      ParentColor = False
+    end
+    object Edit1: TEdit
+      Left = 243
+      Height = 100
+      Top = 2
+      Width = 139
+      TabOrder = 0
+      Text = 'Edit1'
+    end
+    object Label2: TLabel
+      Left = 384
+      Height = 100
+      Top = 2
+      Width = 59
+      Caption = 'Label2'
+      ParentColor = False
+    end
+  end
+  object Panel2: TPanel
+    Left = 0
+    Height = 105
+    Top = 104
+    Width = 445
+    ChildSizing.LeftRightSpacing = 2
+    ChildSizing.TopBottomSpacing = 2
+    ChildSizing.HorizontalSpacing = 2
+    ChildSizing.VerticalSpacing = 2
+    ChildSizing.EnlargeHorizontal = crsHomogenousChildResize
+    ChildSizing.EnlargeVertical = crsHomogenousChildResize
+    ChildSizing.ShrinkVertical = crsHomogenousChildResize
+    ChildSizing.Layout = cclLeftToRightThenTopToBottom
+    ChildSizing.ControlsPerLine = 2
+    ClientHeight = 105
+    ClientWidth = 445
+    TabOrder = 1
+    OnClick = Panel2Click
+    object Button1: TButton
+      Left = 2
+      Height = 101
+      Top = 2
+      Width = 209
+      Caption = 'Criar'
+      TabOrder = 0
+    end
+    object Button2: TButton
+      Left = 213
+      Height = 101
+      Top = 2
+      Width = 230
+      Caption = 'Cancelar'
+      TabOrder = 1
+    end
+  end
+end
