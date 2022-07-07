@@ -23,7 +23,7 @@ Requerimento para o desenvolvimento da versão Desktop:
 * IDE Lazarus instalado
 * Componente zeos instalado
 
-
+![Key](https://user-images.githubusercontent.com/16248842/177886693-ac9a2e0b-9c5f-46c6-8023-aa810ba8f796.PNG)
 
 
  
