@@ -13,6 +13,7 @@ Principais requisitos:
 - Minimalista ✓
 - Teste de conexão para o padrão DAO
 - Sistema de criptografia de dados
+- Padronização do código fonte
 
 Diretivas:
 
