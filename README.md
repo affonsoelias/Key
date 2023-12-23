@@ -23,7 +23,7 @@ Descrição dos diretórios:
   - BIN: Contém os executáveis.
   - SRC: Contém o Código fonte.
 
-Recomendação:
+Recomendações:
 
 - Armazenar o banco de dados em local com sincronia nas nuvens ou em outro dispositivo para evitar perda dos dados.
 
