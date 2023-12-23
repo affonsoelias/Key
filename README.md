@@ -18,6 +18,11 @@ Diretivas:
 
 - O sistema contará com as versões desktop para windows e linux.
 
+Descrição dos diretórios:
+
+  - BIN: Contém os executáveis.
+	- SRC: Contém o Código fonte.
+
 Recomendação:
 
 - Armazenar o banco de dados em local com sincronia nas nuvens ou em outro dispositivo para evitar perda dos dados.
