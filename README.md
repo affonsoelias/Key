@@ -21,7 +21,7 @@ Diretivas:
 Descrição dos diretórios:
 
   - BIN: Contém os executáveis.
-	- SRC: Contém o Código fonte.
+  - SRC: Contém o Código fonte.
 
 Recomendação:
 
