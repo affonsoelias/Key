@@ -1,0 +1,35 @@
+object Form1: TForm1
+  Left = 1365
+  Height = 54
+  Top = 547
+  Width = 442
+  BorderIcons = [biSystemMenu]
+  BorderStyle = bsSingle
+  Caption = 'About key'
+  ClientHeight = 54
+  ClientWidth = 442
+  Position = poMainFormCenter
+  LCLVersion = '2.2.6.0'
+  object Label2: TLabel
+    Left = 0
+    Height = 25
+    Top = 6
+    Width = 442
+    Align = alClient
+    Alignment = taCenter
+    BorderSpacing.Top = 6
+    Caption = 'Key is a simple software to save the login and password of a non-critical system'
+    ParentColor = False
+  end
+  object Label1: TLabel
+    Left = 0
+    Height = 15
+    Top = 31
+    Width = 442
+    Align = alBottom
+    Alignment = taCenter
+    BorderSpacing.Bottom = 8
+    Caption = 'Provided by Affonso Elias Ferreira Junior'
+    ParentColor = False
+  end
+end
