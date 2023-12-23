@@ -11,7 +11,7 @@ Principais requisitos:
 - Designer responsivo ✓
 - Banco de dados portável ✓
 - Minimalista ✓
-- Teste de conecção para o padrão DAO
+- Teste de conexão para o padrão DAO
 - Sistema de criptografia de dados
 
 Diretivas:
